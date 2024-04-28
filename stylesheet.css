@@ -1,0 +1,57 @@
+/* Default style for the body */
+body {
+  padding: 0;
+  font-family: sans-serif;
+  margin: 0;
+}
+/* Styles for the accordion-wrapper */
+#accordion-wrapper {
+  max-width: 600px;
+  margin: 0;
+}
+/* Styles for the class card */
+.card {
+  background-color: yellowgreen;
+  color: blue;
+  padding: 15px 30px;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+/* Styles for the class card title */
+.card-title {
+  font-size: 22px;
+  margin: 0;
+}
+/* Styles for the class card body */
+card-body {
+  display: none;
+  cursor: default;
+}
+/* Styles for the images */
+img {
+  width: 300px;
+  height: auto;
+  text-align: center;
+  padding: 15px;
+  border: 3px solid red;
+}
+/*https://www.javatpoint.com/how-to-change-image-size-in-css*/
+.card-body {
+  display: none;
+}
+/* Styles for the h1 */
+h1 {
+  color: green;
+}
+/* Styles for the p */
+p {
+  color: blue;
+}
+/* Styles for the fade-out */
+.fade-out {
+  padding: 20px;
+  background-color: #f0f0f0;
+  cursor: pointer;
+  margin-bottom: 10px; /* Just for spacing */
+}
